@@ -1,7 +1,7 @@
 @media all and (min-width: 1024px) {
 body {
   width: 100vw;
-  height: 156.7vw;
+  height: 103.5vw;
 }
 h1 {
   font-family: Jura;
@@ -23,6 +23,11 @@ a {
   height: 5.8vw;
   display: flex;
   justify-content: space-between;
+  position: fixed;
+}
+.kostyl {
+  width: 100vw;
+  height: 5.8vw;
 }
 onas > h1 {
   color: #35F036;
@@ -93,6 +98,152 @@ onas > h1 {
   border: 0.1vw solid #35F036;
   width: 23.6vw;
   height: 5.7vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.line {
+  border: 0.1vw solid #35F036;
+  width: 99.85vw;
+  height: 29.95vw;
+  display: flex;
+  justify-content: center;
+}
+.p1 {
+  border: 0.1vw solid #35F036;
+  width: 99.85vw;
+  height: 29.95vw;
+}
+.p1 > h1 {
+  margin-top: 2vw;
+  margin-left: 3vw;
+}
+.naz {
+  border: 0.1vw solid #35F036;
+  width: 15vw;
+  height: 3.96vw;
+}
+.naz > h1 {
+  color: #35F036;
+  margin-top: 1vw;
+  margin-left: 1vw;
+}
+.price {
+  border: 0.1vw solid #35F036;
+  width: 7.3vw;
+  height: 3vw;
+  margin-top: 22.7vw;
+  margin-left: 25.7vw;
+}
+.price > h1 {
+  font-size: 1vw;
+  color: #35F036;
+  margin-top: .4vw;
+  margin-left: 1vw;
+}
+.p2 {
+  border: 0.1vw solid #35F036;
+  width: 99.85vw;
+  height: 29.95vw;
+}
+.mask {
+  background: url('../images/mask.png');
+  margin-top: -25vw;
+  margin-left: 5vw;
+  width: 24.2vw;
+  height: 19.43vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.p3 {
+  border: 0.1vw solid #35F036;
+  width: 99.85vw;
+  height: 29.95vw;
+}
+.case {
+  background: url('../images/case.png');
+  margin-top: -28vw;
+  margin-left: 3vw;
+  width: 28.6vw;
+  height: 25.75vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.line2 {
+  border: 0.1vw solid #35F036;
+  width: 99.85vw;
+  height: 29.95vw;
+  display: flex;
+  justify-content: center;
+}
+.p4 {
+  border: 0.1vw solid #35F036;
+  width: 99.85vw;
+  height: 29.95vw;
+}
+.shopper {
+  background: url('../images/shopper.png');
+  margin-top: -28vw;
+  margin-left: 3vw;
+  width: 29.1vw;
+  height: 25.9vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.p5 {
+  border: 0.1vw solid #35F036;
+  width: 99.85vw;
+  height: 29.95vw;
+}
+.podushka {
+  background: url('../images/podushka.png');
+  margin-top: -27vw;
+  margin-left: 2vw;
+  width: 29.3vw;
+  height: 23.44vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.p6 {
+  border: 0.1vw solid #35F036;
+  width: 99.85vw;
+  height: 29.95vw;
+}
+.pasport {
+  background: url('../images/pasport.png');
+  margin-top: -28vw;
+  margin-left: 3vw;
+  width: 25.9vw;
+  height: 23.6vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.line3 {
+  border: 0.1vw solid #35F036;
+  width: 99.85vw;
+  height: 29.95vw;
+  display: flex;
+  justify-content: center;
+}
+.p7 {
+  border: 0.1vw solid #35F036;
+  width: 99.85vw;
+  height: 29.95vw;
+}
+.p8 {
+  border: 0.1vw solid #35F036;
+  width: 99.85vw;
+  height: 29.95vw;
+}
+.p9 {
+  border: 0.1vw solid #35F036;
+  width: 99.85vw;
+  height: 29.95vw;
+}
+.podval {
+  margin-top: 0vw;
+  width: 100vw;
+  height: 7.71vw;
+  background: url('../images/podval.png');
   background-repeat: no-repeat;
   background-size: cover;
 }

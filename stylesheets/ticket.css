@@ -24,6 +24,10 @@ a {
   display: flex;
   justify-content: space-between;
 }
+.kostyl {
+  width: 100vw;
+  height: 5.8vw;
+}
 onas > h1 {
   color: #35F036;
   margin-top: 1.8vw;

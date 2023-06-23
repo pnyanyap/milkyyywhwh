@@ -1,0 +1,6 @@
+@media all and (min-width: 1024px) {
+body {
+  width: 100vw;
+  height: 56.3vw;
+}
+}

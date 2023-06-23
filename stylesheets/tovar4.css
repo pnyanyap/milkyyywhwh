@@ -1,0 +1,29 @@
+@media all and (min-width: 1024px) {
+body {
+  width: 100vw;
+  height: 56.3vw;
+}
+.podushka2 {
+  width: 34.7vw;
+  height: 31vw;
+  background: url('../images/podushka2.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 4vw;
+  margin-left: 11vw;
+}
+.frame > .naz {
+  background: black;
+  border: 0.1vw solid #35F036;
+  width: 14.6vw;
+  height: 5.6vw;
+}
+.naz > h1 {
+  margin-left: 2vw;
+  margin-top: 2vw;
+}
+.frame > h1 {
+  margin-left: 7vw;
+  margin-top: 11vw;
+}
+}

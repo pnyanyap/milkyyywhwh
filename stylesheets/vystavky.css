@@ -129,9 +129,10 @@ onas > h1 {
   background-repeat: no-repeat;
   background-size: cover;
 }
-.blur {
-
-}
+/* .posters > .poster1:hover{
+  background: #35F036;
+  transition: all .3s;
+} */
 .podval {
   width: 100vw;
   height: 7.71vw;

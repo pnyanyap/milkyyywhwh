@@ -1,0 +1,29 @@
+@media all and (min-width: 1024px) {
+body {
+  width: 100vw;
+  height: 56.3vw;
+}
+.pen2 {
+  width: 47.1vw;
+  height: 37.4vw;
+  background: url('../images/pen2.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 4vw;
+  margin-left: 4vw;
+}
+.frame > .naz {
+  background: black;
+  border: 0.1vw solid #35F036;
+  width: 14.6vw;
+  height: 5.6vw;
+}
+.naz > h1 {
+  margin-left: 2vw;
+  margin-top: 2vw;
+}
+.frame > h1 {
+  margin-left: 7vw;
+  margin-top: 11vw;
+}
+}

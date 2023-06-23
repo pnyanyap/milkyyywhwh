@@ -101,30 +101,30 @@ onas > h1 {
   background-size: cover;
 }
 .posters {
-  width: 60.7vw;
+  width: 82vw;
   height: 33.5vw;
   margin-top: 4.7vw;
-  margin-left: 18.1vw;
+  margin-left: 9vw;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
 }
 .poster4 {
   background: url('../images/poster4.png');
-  width: 30.3vw;
+  width: 23.6vw;
   height: 33.5vw;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .poster5 {
   background: url('../images/poster5.png');
-  width: 30.3vw;
+  width: 23.6vw;
   height: 33.5vw;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .poster6 {
   background: url('../images/poster6.png');
-  width: 30.3vw;
+  width: 23.6vw;
   height: 33.5vw;
   background-repeat: no-repeat;
   background-size: cover;

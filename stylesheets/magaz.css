@@ -229,15 +229,42 @@ onas > h1 {
   width: 99.85vw;
   height: 29.95vw;
 }
+.bloknot {
+  background: url('../images/bloknot.png');
+  margin-top: -27vw;
+  margin-left: -1vw;
+  width: 33.5vw;
+  height: 25.2vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .p8 {
   border: 0.1vw solid #35F036;
   width: 99.85vw;
   height: 29.95vw;
 }
+.pen {
+  background: url('../images/pen.png');
+  margin-top: -27vw;
+  margin-left: 0vw;
+  width: 32.4vw;
+  height: 25.7vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .p9 {
   border: 0.1vw solid #35F036;
   width: 99.85vw;
   height: 29.95vw;
+}
+.pin {
+  background: url('../images/pin.png');
+  margin-top: -23vw;
+  margin-left: 5vw;
+  width: 20.7vw;
+  height: 15.2vw;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .podval {
   margin-top: 0vw;

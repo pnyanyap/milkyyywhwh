@@ -1,7 +1,7 @@
 @media all and (min-width: 1024px) {
 body {
   width: 100vw;
-  height: 156.7vw;
+  height: 56.3vw;
 }
 h1 {
   font-family: Jura;
@@ -99,5 +99,152 @@ onas > h1 {
   height: 5.7vw;
   background-repeat: no-repeat;
   background-size: cover;
+}
+.ff {
+  width: 100vw;
+  height: 42.9vw;
+  display: flex;
+  justify-content: center;
+}
+.form {
+  background: #35F036;
+  width: 55.7vw;
+  height: 42.9vw;
+}
+.korob {
+  width: 41vw;
+  height: 3.5vw;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 8vw;
+  margin-top: 10vw;
+}
+.otkuda{
+  width: 12.7vw;
+  height: 3.5vw;
+  background: black;
+}
+.otkuda > h1 {
+  opacity: .3;
+  margin-left: 3.5vw;
+  margin-top: 0.6vw;
+}
+.frame {
+  border: 0.1vw solid #35F036;
+  width: 44.2vw;
+  height: 42.9.7vw;
+}
+.portal {
+  background: url('../images/portal.png');
+  width: 30.4vw;
+  height: 30.7vw;
+  margin-top: 5vw;
+  margin-left: 7vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.linii {
+  width: 20.06vw;
+  height: 13.13vw;
+  margin-top: 4vw;
+  margin-left: 11vw;
+}
+.lin {
+  width: 7.4vw;
+  height: 0.1vw;
+  background: white;
+  margin-top: -19vw;
+  margin-left: 5vw;
+  transform: rotate(-77deg);
+  animation: lin 8s linear infinite;
+}
+.lin2 {
+  width: 5.2vw;
+  height: 0.1vw;
+  background: white;
+  margin-top: -4.7vw;
+  margin-left: 9.3vw;
+  transform: rotate(-23deg);
+  animation: lin2 8s linear infinite;
+}
+.lin3 {
+  width: 6vw;
+  height: 0.1vw;
+  background: white;
+  margin-top: -0.5vw;
+  margin-left: 14.2vw;
+  transform: rotate(12deg);
+  animation: lin3 8s linear infinite;
+}
+.lin4 {
+  width: 4.3vw;
+  height: 0.1vw;
+  background: white;
+  margin-top: 2.5vw;
+  margin-left: 18.8vw;
+  transform: rotate(67deg);
+  animation: lin4 8s linear infinite;
+}
+.lin5 {
+  width: 3.8vw;
+  height: 0.1vw;
+  background: white;
+  margin-top: 3.5vw;
+  margin-left: 18.95vw;
+  transform: rotate(118deg);
+  animation: lin5 8s linear infinite;
+}
+.lin6 {
+  width: 3.7vw;
+  height: 0.1vw;
+  background: white;
+  margin-top: 0.3vw;
+  margin-left: 16.7vw;
+  transform: rotate(-137deg);
+  animation: lin6 8s linear infinite;
+}
+.lin7 {
+  width: 2.8vw;
+  height: 0.1vw;
+  background: white;
+  margin-top: -2.1vw;
+  margin-left: 17vw;
+  transform: rotate(147deg);
+  animation: lin7 8s linear infinite;
+}
+@keyframes lin {
+  0% { opacity: 0;}
+  6% {opacity: 0;}
+  7% {opacity: 1;}
+}
+@keyframes lin2 {
+  0% {opacity: 0;}
+  13% { opacity: 0;}
+  14% {opacity: 1;}
+}
+@keyframes lin3 {
+  0% {opacity: 0;}
+  20% { opacity: 0;}
+  21% {opacity: 1;}
+}
+@keyframes lin4 {
+  0% {opacity: 0;}
+  27% {opacity: 0;}
+  28% {opacity: 1;}
+}
+@keyframes lin5 {
+  0% {opacity: 0;}
+  34% {opacity: 0;}
+  35% {opacity: 1;}
+}
+@keyframes lin6 {
+  0% {opacity: 0;}
+  41% { opacity: 0;}
+  42% {opacity: 1;}
+}
+@keyframes lin7 {
+  0% {opacity: 0;}
+  49% { opacity: 0;}
+  50% {opacity: 1;}
 }
 }

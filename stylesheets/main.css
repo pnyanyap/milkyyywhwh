@@ -1,0 +1,226 @@
+@media all and (min-width: 1024px) {
+body {
+  width: 100vw;
+  height: 156.7vw;
+}
+h1 {
+  font-family: Jura;
+  font-weight: bolder;
+  color: white;
+  font-size: 1.6vw;
+  line-height: 1.9vw;
+}
+a {
+  font-family: Jura;
+  font-weight: bolder;
+  color: white;
+  font-size: 1.6vw;
+  line-height: 1.9vw;
+  text-decoration: none;
+}
+.up {
+  width: 100vw;
+  height: 5.8vw;
+  display: flex;
+  justify-content: space-between;
+}
+.onas > h1 {
+  color: #35F036;
+  margin-top: 1.8vw;
+  margin-left: 5vw;
+}
+.vystavky > h1 {
+  color: #35F036;
+  margin-top: 1.8vw;
+  margin-left: 3.5vw;
+}
+.akzi > h1 {
+  color: #35F036;
+  margin-top: 1.8vw;
+  margin-left: 5vw;
+}
+.magaz > h1 {
+  color: #35F036;
+  margin-top: 1.8vw;
+  margin-left: 4vw;
+}
+.ticket > h1 {
+  color: black;
+  margin-top: 1.8vw;
+  margin-left: 2vw;
+}
+.logo {
+  background: url('../images/logo.svg');
+  width: 41.9vw;
+  height: 5.8vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.onas {
+  background: black;
+  border: 0.1vw solid #35F036;
+  width: 23.6vw;
+  height: 5.7vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vystavky {
+  background: black;
+  border: 0.1vw solid #35F036;
+  width: 23.6vw;
+  height: 5.7vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.akzi {
+  background: black;
+  border: 0.1vw solid #35F036;
+  width: 23.6vw;
+  height: 5.7vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.magaz {
+  background: black;
+  border: 0.1vw solid #35F036;
+  width: 23.6vw;
+  height: 5.7vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ticket {
+  background: #35F036;
+  border: 0.1vw solid #35F036;
+  width: 23.6vw;
+  height: 5.7vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.text1 {
+  width: 70.2vw;
+  height: 27.1vw;
+  margin-top: 2.3vw;
+  margin-left: 9.9vw;
+}
+.text1 > h1:nth-of-type(2) {
+  margin-top: 1.9vw;
+}
+.p {
+  width: 99.85vw;
+  height: 43.65vw;
+  border: 0.1vw solid #35F036;
+}
+.p2 {
+  width: 99.85vw;
+  height: 33.2vw;
+  border: 0.1vw solid #35F036;
+}
+.knopka {
+  width: 23.91vw;
+  height: 5.6vw;
+  border: 0.1vw solid #35F036;
+}
+.knopka > h1 {
+  color: #35F036;
+  margin-top: 1.6vw;
+  margin-left: 3.5vw;
+}
+.p2 > h1 {
+  margin-top: 6.9vw;
+  margin-left: 4.3vw;
+}
+.moon {
+  width: 30.2vw;
+  height: 20.94vw;
+  background: url('../images/moon.png');
+  margin-top: -14.2vw;
+  margin-left: 62.2vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.pereti {
+  background: #35F036;
+  width: 12.3vw;
+  height: 4vw;
+  border: 0.1vw solid #35F036;
+  margin-top: 2.2vw;
+  margin-left: 87.5vw;
+  display: flex;
+  justify-content: center;
+}
+.pereti > a {
+  color: black;
+  margin-top: 1.1vw;
+}
+.p3 {
+  width: 99.85vw;
+  height: 33.2vw;
+  border: 0.1vw solid #35F036;
+}
+.knopka2 {
+  width: 19.75vw;
+  height: 5.6vw;
+  border: 0.1vw solid #35F036;
+}
+.knopka2 > h1 {
+  color: #35F036;
+  margin-top: 1.6vw;
+  margin-left: 3.5vw;
+}
+.p3 > h1 {
+  margin-top: 8.6vw;
+  margin-left: 4.3vw;
+}
+.whale {
+  width: 34.5vw;
+  height: 23.7vw;
+  background: url('../images/whale.png');
+  margin-top: -15.2vw;
+  margin-left: 58vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.p3 > .pereti {
+  margin-top: 0.6vw;
+  margin-left: 87.5vw;
+}
+.p4 {
+  width: 99.85vw;
+  height: 33.2vw;
+  border: 0.1vw solid #35F036;
+}
+.knopka3 {
+  width: 19.75vw;
+  height: 5.6vw;
+  border: 0.1vw solid #35F036;
+}
+.knopka3 > h1 {
+  color: #35F036;
+  margin-top: 1.6vw;
+  margin-left: 3.5vw;
+}
+.book {
+  width: 36.6vw;
+  height: 28.4vw;
+  background: url('../images/book.png');
+  margin-top: -20.6vw;
+  margin-left: 55vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.p4 > h1 {
+  margin-top: 7.6vw;
+  margin-left: 4.3vw;
+}
+.p4 > .pereti {
+  margin-top: -1.5vw;
+  margin-left: 87.5vw;
+}
+.podval {
+  width: 100vw;
+  height: 7.71vw;
+  background: url('../images/podval.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+}

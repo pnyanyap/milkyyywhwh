@@ -1,0 +1,190 @@
+@media all and (min-width: 1024px) {
+body {
+  width: 100vw;
+  height: 127.8vw;
+}
+h1 {
+  font-family: Jura;
+  font-weight: bolder;
+  color: white;
+  font-size: 1.6vw;
+  line-height: 1.9vw;
+}
+a {
+  font-family: Jura;
+  font-weight: bolder;
+  color: white;
+  font-size: 1.6vw;
+  line-height: 1.9vw;
+  text-decoration: none;
+}
+.up {
+  width: 100vw;
+  height: 5.8vw;
+  display: flex;
+  justify-content: space-between;
+}
+.onas > h1 {
+  color: #35F036;
+  margin-top: 1.8vw;
+  margin-left: 5vw;
+}
+.vystavky > h1 {
+  color: #35F036;
+  margin-top: 1.8vw;
+  margin-left: 3.5vw;
+}
+.akzi > h1 {
+  color: #35F036;
+  margin-top: 1.8vw;
+  margin-left: 5vw;
+}
+.magaz > h1 {
+  color: #35F036;
+  margin-top: 1.8vw;
+  margin-left: 4vw;
+}
+.ticket > h1 {
+  color: black;
+  margin-top: 1.8vw;
+  margin-left: 2vw;
+}
+.logo {
+  background: url('../images/logo.svg');
+  width: 41.9vw;
+  height: 5.8vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.onas {
+  background: black;
+  border: 0.1vw solid #35F036;
+  width: 23.6vw;
+  height: 5.7vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vystavky {
+  background: black;
+  border: 0.1vw solid #35F036;
+  width: 23.6vw;
+  height: 5.7vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.akzi {
+  background: black;
+  border: 0.1vw solid #35F036;
+  width: 23.6vw;
+  height: 5.7vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.magaz {
+  background: black;
+  border: 0.1vw solid #35F036;
+  width: 23.6vw;
+  height: 5.7vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ticket {
+  background: #35F036;
+  border: 0.1vw solid #35F036;
+  width: 23.6vw;
+  height: 5.7vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.up2 {
+  width: 100vw;
+  height: 25.65vw;
+  display: flex;
+  justify-content: space-between;
+}
+.text {
+  background: black;
+  border: 0.1vw solid #35F036;
+  width: 49.8vw;
+  height: 25.53vw;
+}
+.text > h1 {
+  margin-top: 3.9vw;
+  margin-left: 4.2vw;
+}
+.photo {
+  background: url('../images/photo.png');
+  border: 0.1vw solid #35F036;
+  width: 50vw;
+  height: 25.53vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.info {
+  width: 99.85vw;
+  height: 35.06vw;
+  border: 0.1vw solid #35F036;
+}
+.info > h1 {
+  margin-top: 2vw;
+  margin-left: 4.2vw;
+}
+.infog {
+  width: 90.6vw;
+  height: 34vw;
+  display: flex;
+  justify-content: space-between;
+  margin-top: -2vw;
+  margin-left: 4vw;
+}
+.i790 {
+  background: url('../images/790.png');
+  width: 22.7vw;
+  height: 32.35vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.i14 {
+  background: url('../images/14.png');
+  width: 15.3vw;
+  height: 32.35vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.i517 {
+  background: url('../images/517.png');
+  width: 20.6vw;
+  height: 32.35vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.history {
+  width: 99.85vw;
+  height: 53.6vw;
+  border: 0.1vw solid #35F036;
+}
+.history > h1:nth-of-type(1) {
+  margin-top: 4.6vw;
+  margin-left: 3.6vw;
+}
+.history > h1:nth-of-type(2) {
+  margin-top: 10.5vw;
+  margin-left: 54.2vw;
+}
+.photo2 {
+  width: 62.75vw;
+  height: 59.02vw;
+  margin-top: -51vw;
+  margin-left: 17.5vw;
+  background: url('../images/2051-2063.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.podval {
+  width: 100vw;
+  height: 7.71vw;
+  background: url('../images/podval.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+}
